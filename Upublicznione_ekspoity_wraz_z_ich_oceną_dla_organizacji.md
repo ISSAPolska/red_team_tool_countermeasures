@@ -1,4 +1,4 @@
-Lista podatność adresowana podatnościami z priorytetami:
+Lista podatności na podstawie wycieku FireEye z priorytetami:
 
 krytyczne
   - [CVE-2020-0688](https://nvd.nist.gov/vuln/detail/CVE-2020-0688) – Remote Command Execution in Microsoft Exchange 
@@ -22,3 +22,5 @@ mniej istotne
   - [CVE-2016-0167](https://nvd.nist.gov/vuln/detail/CVE-2016-0167) – local privilege escalation on older versions of Microsoft Windows 
 
 Więcej na naszym SLACK: https://issapolska.slack.com/archives/CK8EBH94Z/p1607473226000300
+
+#060FE20205348414D45 #FE2020
